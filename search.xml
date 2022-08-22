@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>redis</title>
+      <link href="/posts/7b25d017.html"/>
+      <url>/posts/7b25d017.html</url>
+      
+        <content type="html"><![CDATA[<p><img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Ffile.mysia.cn%2Foneblog%2F20210615181341551.jpeg&refer=http%3A%2F%2Ffile.mysia.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1663643216&t=d6807e486e03c034267d36e99c5cb316" alt="Redis" title="Redis"></p><h1 id="Redis学习笔记"><a href="#Redis学习笔记" class="headerlink" title="Redis学习笔记"></a>Redis学习笔记</h1><h5 id="一-Redis应用场景"><a href="#一-Redis应用场景" class="headerlink" title="一.Redis应用场景:"></a>一.Redis应用场景:</h5><ul><li>缓存</li><li>任务队列</li><li>消息队列</li><li>分布式锁</li></ul><h5 id="二-Redis下载与安装"><a href="#二-Redis下载与安装" class="headerlink" title="二.Redis下载与安装"></a>二.Redis下载与安装</h5><ol><li>将Redis安装包上传到linux</li><li>解压安装包，命令：tar -zxvf redis-4.0.0.tar.gz-C &#x2F;usr&#x2F;local</li><li>安装Redis的依赖环境gcc,命令：yum install gcc-c++</li><li>进入&#x2F;usr&#x2F;local&#x2F;redis-4.0.0，进行编译，命令：make</li><li>进入redis的src目录，进行安装，命令：make install</li></ol><h5 id="三-Redis数据类型"><a href="#三-Redis数据类型" class="headerlink" title="三.Redis数据类型"></a>三.Redis数据类型</h5><p>Redis存储的时key-value结构的数据，其中key是字符串类型，value有五种常用的数据类型：</p><ul><li><p>字符串string</p></li><li><p>哈希hash</p></li><li><p>列表list</p></li><li><p>集合set</p></li><li><p>有序集合sorted set</p></li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Diary </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+  
+</search>

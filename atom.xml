@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>use‘blog</title>
   
-  <subtitle>外化而内不化</subtitle>
+  <subtitle>《知北游》篇：“仲尼曰：‘古之人，外化而内不化；今之人，内化而外不化。</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-08-22T07:59:42.008Z</updated>
+  <updated>2022-08-23T02:14:32.651Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>spring</title>
+    <link href="http://example.com/posts/undefined.html"/>
+    <id>http://example.com/posts/undefined.html</id>
+    <published>2022-08-22T11:01:15.000Z</published>
+    <updated>2022-08-23T02:14:32.651Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="spring"><a href="#spring" class="headerlink" title="spring"></a>spring</h1><blockquote><p>优点 </p></blockquote>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;spring&quot;&gt;&lt;a href=&quot;#spring&quot; class=&quot;headerlink&quot; title=&quot;spring&quot;&gt;&lt;/a&gt;spring&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;优点 &lt;/p&gt;
+&lt;/blockquote&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>redis</title>
